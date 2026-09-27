@@ -1,0 +1,15 @@
+{
+  "name": "soulofonejewishfolk",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/build.mjs && npx --yes serve dist"
+  },
+  "dependencies": {
+    "marked": "^14.1.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
