@@ -23,5 +23,3 @@ Files starting with `_`, or marked `draft: true`, are never published.
 This is a Pages project only. No Worker, no `wrangler deploy`.
 
 When the custom domain is live, change `url` in `site.config.json` so the sitemap, RSS and canonical links use it.
-# soulofonejewishfolk
-Torahs by Daniel Rosenthal, I am not a Rabbi
